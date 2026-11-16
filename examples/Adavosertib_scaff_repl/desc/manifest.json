@@ -1,0 +1,13 @@
+{
+  "timestamp": "2026-11-15T15:38:53",
+  "python": "3.14.2",
+  "platform": "Windows-11-10.0.26200-SP0",
+  "params": {
+    "Whole smiles": "CC(C)(c1cccc(n1)N2c3c(cnc(n3)Nc4ccc(cc4)N5CCN(CC5)C)C(=O)N2CC=C)O",
+    "Scaffold smiles": "O=C1NNc2nc(Nc3ccccc3)ncc12",
+    "Similarity screening mode": "desc",
+    "Scaff repl top_n": 100,
+    "Number of scaff_repl": 100,
+    "Output path": "Adavosertib_scaff_repl\\desc/scaff_replaced_products.csv"
+  }
+}

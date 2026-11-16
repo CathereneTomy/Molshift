@@ -1,0 +1,19 @@
+{
+  "timestamp": "2026-11-14T17:21:26",
+  "python": "3.14.2",
+  "platform": "Windows-11-10.0.26200-SP0",
+  "params": {
+    "Whole smiles": "C[C@@H](C(F)(F)F)n1c(c(c(n1)c2ccc(cc2)CNC(=O)c3cc(ccc3OC)F)C(=O)N)N",
+    "Scaffold smiles": "Nc1cc(-c2ccc(CNC(=O)c3cccc(F)c3)cc2)n[nH]1",
+    "Similarity screening mode": "desc",
+    "Number of rgrp replaced": 3,
+    "Rgrp enumeration mols requested": 10000,
+    "Number of rgrp_enum": 8228,
+    "Rgrp ref based filteration": 2087,
+    "Rgrp alerts filteration": 2045,
+    "Scaff repl top_n": 50,
+    "Number of scaff_repl": 102250,
+    "Scaff repl ref based filteration": 21451,
+    "Scaff repl alerts filteration": 21431
+  }
+}

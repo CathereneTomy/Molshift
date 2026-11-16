@@ -1,0 +1,2341 @@
+{
+  "*c1ccc(/C=c2\\[nH]c(=O)/c(=C/c3nc[nH]c3*)[nH]c2=O)cc1*": {
+    "rank": 1,
+    "mapping": {
+      "2": 1,
+      "13": 2,
+      "22": 3
+    },
+    "final_score": 0.9513,
+    "score": 0.9,
+    "ecfp4_sim": null,
+    "usrcat_sim": 0.1809,
+    "mapping_sim": 0.1333,
+    "mapping_tied": true,
+    "alt_mappings": [
+      {
+        "2": 3,
+        "13": 2,
+        "22": 1
+      }
+    ],
+    "span_dev": 0.333,
+    "n_molecules": 1,
+    "path_flex_diff": -6.0,
+    "path_arom_diff": 0.057999999999999975
+  },
+  "*c1cc(*)cc(/C=c2\\[nH]c(=O)/c(=C/c3nc[nH]c3*)[nH]c2=O)c1": {
+    "rank": 2,
+    "mapping": {
+      "2": 1,
+      "13": 3,
+      "22": 2
+    },
+    "final_score": 0.9513,
+    "score": 0.9,
+    "ecfp4_sim": null,
+    "usrcat_sim": 0.1809,
+    "mapping_sim": 0.1333,
+    "mapping_tied": false,
+    "alt_mappings": [],
+    "span_dev": 0.333,
+    "n_molecules": 1,
+    "path_flex_diff": -6.0,
+    "path_arom_diff": 0.05299999999999997
+  },
+  "*c1ccc(/C=c2\\[nH]c(=O)/c(=C/c3nc[nH]c3*)[nH]c2=O)c(*)c1": {
+    "rank": 3,
+    "mapping": {
+      "2": 3,
+      "13": 2,
+      "22": 1
+    },
+    "final_score": 0.9513,
+    "score": 0.9,
+    "ecfp4_sim": null,
+    "usrcat_sim": 0.1809,
+    "mapping_sim": 0.1333,
+    "mapping_tied": false,
+    "alt_mappings": [],
+    "span_dev": 0.333,
+    "n_molecules": 1,
+    "path_flex_diff": -6.0,
+    "path_arom_diff": 0.05200000000000001
+  },
+  "*c1ccc(*)c(/C=c2\\[nH]c(=O)/c(=C/c3nc[nH]c3*)[nH]c2=O)c1": {
+    "rank": 4,
+    "mapping": {
+      "2": 2,
+      "13": 3,
+      "22": 1
+    },
+    "final_score": 0.9513,
+    "score": 0.9,
+    "ecfp4_sim": null,
+    "usrcat_sim": 0.1809,
+    "mapping_sim": 0.1333,
+    "mapping_tied": false,
+    "alt_mappings": [],
+    "span_dev": 1.0,
+    "n_molecules": 1,
+    "path_flex_diff": -6.0,
+    "path_arom_diff": 0.04700000000000001
+  },
+  "*c1cccc(/C=c2\\[nH]c(=O)/c(=C/c3nc[nH]c3*)[nH]c2=O)c1*": {
+    "rank": 5,
+    "mapping": {
+      "2": 3,
+      "13": 2,
+      "22": 1
+    },
+    "final_score": 0.9513,
+    "score": 0.9,
+    "ecfp4_sim": null,
+    "usrcat_sim": 0.1809,
+    "mapping_sim": 0.1333,
+    "mapping_tied": false,
+    "alt_mappings": [],
+    "span_dev": 1.0,
+    "n_molecules": 1,
+    "path_flex_diff": -6.0,
+    "path_arom_diff": 0.04700000000000001
+  },
+  "*C(=O)/C=c1/s/c(=C/c2ccc3cc(*)ccc3c2)c(=O)n1*": {
+    "rank": 6,
+    "mapping": {
+      "2": 3,
+      "13": 2,
+      "22": 1
+    },
+    "final_score": 0.9071,
+    "score": 0.7667,
+    "ecfp4_sim": null,
+    "usrcat_sim": 0.1718,
+    "mapping_sim": 0.0667,
+    "mapping_tied": false,
+    "alt_mappings": [],
+    "span_dev": 0.667,
+    "n_molecules": 2,
+    "path_flex_diff": -6.0,
+    "path_arom_diff": -0.10899999999999999
+  },
+  "*c1cc(*)cc(/C=c2\\[nH]c(=O)/c(=C/c3ncoc3*)[nH]c2=O)c1": {
+    "rank": 7,
+    "mapping": {
+      "2": 1,
+      "13": 3,
+      "22": 2
+    },
+    "final_score": 0.8938,
+    "score": 0.7833,
+    "ecfp4_sim": null,
+    "usrcat_sim": 0.1605,
+    "mapping_sim": 0.1333,
+    "mapping_tied": false,
+    "alt_mappings": [],
+    "span_dev": 0.333,
+    "n_molecules": 1,
+    "path_flex_diff": -6.0,
+    "path_arom_diff": 0.05299999999999997
+  },
+  "*c1ccc(*)c(S(=O)(=O)Nn2c(C)nc3ccc(S(*)(=O)=O)cc3c2=O)c1": {
+    "rank": 8,
+    "mapping": {
+      "2": 2,
+      "13": 3,
+      "22": 1
+    },
+    "final_score": 0.8805,
+    "score": 0.8333,
+    "ecfp4_sim": null,
+    "usrcat_sim": 0.1563,
+    "mapping_sim": 0.0667,
+    "mapping_tied": false,
+    "alt_mappings": [],
+    "span_dev": 1.0,
+    "n_molecules": 1,
+    "path_flex_diff": -2.0,
+    "path_arom_diff": -0.01666666666666668
+  },
+  "*c1ccc(C2NC(=O)c3cc(*)cc(c3)C(=O)N[C@H](*)COCc3cccc2c3)cc1": {
+    "rank": 9,
+    "mapping": {
+      "2": 2,
+      "13": 1,
+      "22": 3
+    },
+    "final_score": 0.8673,
+    "score": 0.7333,
+    "ecfp4_sim": null,
+    "usrcat_sim": 0.1593,
+    "mapping_sim": 0.1333,
+    "mapping_tied": false,
+    "alt_mappings": [],
+    "span_dev": 1.333,
+    "n_molecules": 1,
+    "path_flex_diff": -8.0,
+    "path_arom_diff": -0.23133333333333336
+  },
+  "*c1ccc2[nH]c([C@@H]3c4cc5c(cc4[C@@H](c4cc(*)c(O)c(*)c4)[C@H]4C(=O)OC[C@H]34)OCO5)nc2c1": {
+    "rank": 10,
+    "mapping": {
+      "2": 2,
+      "13": 1,
+      "22": 3
+    },
+    "final_score": 0.8407,
+    "score": 0.569,
+    "ecfp4_sim": null,
+    "usrcat_sim": 0.2714,
+    "mapping_sim": 0.1333,
+    "mapping_tied": false,
+    "alt_mappings": [],
+    "span_dev": 0.333,
+    "n_molecules": 1,
+    "path_flex_diff": -6.0,
+    "path_arom_diff": 0.06299999999999999
+  },
+  "*c1ccc(S(=O)(=O)c2c[nH]c3cc(*)c(*)cc3c2=O)cc1": {
+    "rank": 11,
+    "mapping": {
+      "2": 3,
+      "13": 1,
+      "22": 2
+    },
+    "final_score": 0.8009,
+    "score": 0.7667,
+    "ecfp4_sim": null,
+    "usrcat_sim": 0.1398,
+    "mapping_sim": 0.1333,
+    "mapping_tied": false,
+    "alt_mappings": [],
+    "span_dev": 1.0,
+    "n_molecules": 1,
+    "path_flex_diff": -6.0,
+    "path_arom_diff": 0.11066666666666669
+  },
+  "*c1ccc(C2=CC(c3ccc(*)c(*)c3)=NC(N)O2)cc1": {
+    "rank": 12,
+    "mapping": {
+      "2": 3,
+      "13": 1,
+      "22": 2
+    },
+    "final_score": 0.7987,
+    "score": 0.7,
+    "ecfp4_sim": null,
+    "usrcat_sim": 0.1463,
+    "mapping_sim": 0.1333,
+    "mapping_tied": false,
+    "alt_mappings": [],
+    "span_dev": 1.0,
+    "n_molecules": 1,
+    "path_flex_diff": -6.0,
+    "path_arom_diff": -0.01666666666666668
+  },
+  "*C(=O)/C=c1\\s/c(=C\\c2ccc3cc(*)ccc3c2)c(=O)n1*": {
+    "rank": 13,
+    "mapping": {
+      "2": 3,
+      "13": 2,
+      "22": 1
+    },
+    "final_score": 0.7743,
+    "score": 0.7667,
+    "ecfp4_sim": null,
+    "usrcat_sim": 0.1347,
+    "mapping_sim": 0.0667,
+    "mapping_tied": false,
+    "alt_mappings": [],
+    "span_dev": 0.667,
+    "n_molecules": 2,
+    "path_flex_diff": -6.0,
+    "path_arom_diff": -0.10899999999999999
+  },
+  "*c1cc2[nH]c3c(c2cc1*)C[C@@H]1CC[C@@]2(O)C4=CC(=O)[C@@H](*)O[C@H]4CC[C@]2(C)[C@@]31C": {
+    "rank": 14,
+    "mapping": {
+      "2": 1,
+      "13": 3,
+      "22": 2
+    },
+    "final_score": 0.7743,
+    "score": 0.5667,
+    "ecfp4_sim": null,
+    "usrcat_sim": 0.1711,
+    "mapping_sim": 0.0667,
+    "mapping_tied": true,
+    "alt_mappings": [
+      {
+        "2": 2,
+        "13": 3,
+        "22": 1
+      }
+    ],
+    "span_dev": 0.667,
+    "n_molecules": 1,
+    "path_flex_diff": -10.0,
+    "path_arom_diff": -0.21433333333333335
+  },
+  "*c1cc([C@@H]2c3cc4c(cc3[C@@H](N3CCN(*)CC3)[C@H]3COC(=O)[C@H]23)OCO4)cc(*)c1O": {
+    "rank": 15,
+    "mapping": {
+      "2": 1,
+      "13": 2,
+      "22": 3
+    },
+    "final_score": 0.7721,
+    "score": 0.5524,
+    "ecfp4_sim": null,
+    "usrcat_sim": 0.1752,
+    "mapping_sim": 0.0667,
+    "mapping_tied": false,
+    "alt_mappings": [],
+    "span_dev": 0.333,
+    "n_molecules": 4,
+    "path_flex_diff": -6.0,
+    "path_arom_diff": -0.18899999999999997
+  },
+  "*c1cc2c(o1)Cc1ccc3c(c1C2)O[C@@H]1COc2cc(*)c(*)cc2[C@H]1[C@@H]3O": {
+    "rank": 16,
+    "mapping": {
+      "2": 2,
+      "13": 1,
+      "22": 3
+    },
+    "final_score": 0.7721,
+    "score": 0.5167,
+    "ecfp4_sim": null,
+    "usrcat_sim": 0.1884,
+    "mapping_sim": 0.1333,
+    "mapping_tied": true,
+    "alt_mappings": [
+      {
+        "2": 3,
+        "13": 1,
+        "22": 2
+      }
+    ],
+    "span_dev": 1.0,
+    "n_molecules": 1,
+    "path_flex_diff": -10.0,
+    "path_arom_diff": 0.014000000000000012
+  },
+  "*c1cc2c(o1)Cc1ccc3c(c1C2)O[C@@H]1COc2cc(*)c(*)cc2[C@@H]1[C@@H]3O": {
+    "rank": 17,
+    "mapping": {
+      "2": 2,
+      "13": 1,
+      "22": 3
+    },
+    "final_score": 0.7633,
+    "score": 0.5167,
+    "ecfp4_sim": null,
+    "usrcat_sim": 0.1817,
+    "mapping_sim": 0.1333,
+    "mapping_tied": true,
+    "alt_mappings": [
+      {
+        "2": 3,
+        "13": 1,
+        "22": 2
+      }
+    ],
+    "span_dev": 1.0,
+    "n_molecules": 1,
+    "path_flex_diff": -10.0,
+    "path_arom_diff": 0.014000000000000012
+  },
+  "*c1ccc2sc([C@@H]3c4cc5c(cc4[C@@H](c4cc(*)c(O)c(*)c4)[C@H]4C(=O)OC[C@H]34)OCO5)nc2c1": {
+    "rank": 18,
+    "mapping": {
+      "2": 2,
+      "13": 1,
+      "22": 3
+    },
+    "final_score": 0.7633,
+    "score": 0.4881,
+    "ecfp4_sim": null,
+    "usrcat_sim": 0.2022,
+    "mapping_sim": 0.1333,
+    "mapping_tied": false,
+    "alt_mappings": [],
+    "span_dev": 0.333,
+    "n_molecules": 2,
+    "path_flex_diff": -6.0,
+    "path_arom_diff": 0.06299999999999999
+  },
+  "*C(=O)[C@H]1NC(=O)[C@H](*)NC(=O)OCC/C=C/c2cc(nc(*)n2)Oc2ccc1cc2": {
+    "rank": 19,
+    "mapping": {
+      "2": 1,
+      "13": 3,
+      "22": 2
+    },
+    "final_score": 0.7588,
+    "score": 0.5524,
+    "ecfp4_sim": null,
+    "usrcat_sim": 0.1695,
+    "mapping_sim": 0.0667,
+    "mapping_tied": false,
+    "alt_mappings": [],
+    "span_dev": 1.333,
+    "n_molecules": 2,
+    "path_flex_diff": -8.0,
+    "path_arom_diff": -0.5013333333333333
+  },
+  "*c1ccc2oc([C@@H]3c4cc5c(cc4[C@@H](c4cc(*)c(O)c(*)c4)[C@H]4C(=O)OC[C@H]34)OCO5)nc2c1": {
+    "rank": 20,
+    "mapping": {
+      "2": 2,
+      "13": 1,
+      "22": 3
+    },
+    "final_score": 0.7588,
+    "score": 0.4881,
+    "ecfp4_sim": null,
+    "usrcat_sim": 0.1985,
+    "mapping_sim": 0.1333,
+    "mapping_tied": false,
+    "alt_mappings": [],
+    "span_dev": 0.333,
+    "n_molecules": 2,
+    "path_flex_diff": -6.0,
+    "path_arom_diff": 0.06299999999999999
+  },
+  "*c1ccc2c(c1)N[C@@H](*)CCCC[C@H](N1CCC(*)OC1=O)c1nc-2c[nH]1": {
+    "rank": 21,
+    "mapping": {
+      "2": 2,
+      "13": 3,
+      "22": 1
+    },
+    "final_score": 0.7566,
+    "score": 0.6167,
+    "ecfp4_sim": null,
+    "usrcat_sim": 0.153,
+    "mapping_sim": 0.0,
+    "mapping_tied": false,
+    "alt_mappings": [],
+    "span_dev": 1.0,
+    "n_molecules": 1,
+    "path_flex_diff": -8.0,
+    "path_arom_diff": -0.43133333333333335
+  },
+  "*c1nc2c(c(=O)[nH]1)CC(C1=NCCc3cc(*)c(*)cc31)CC2": {
+    "rank": 22,
+    "mapping": {
+      "2": 3,
+      "13": 1,
+      "22": 2
+    },
+    "final_score": 0.7522,
+    "score": 0.6,
+    "ecfp4_sim": null,
+    "usrcat_sim": 0.1536,
+    "mapping_sim": 0.1333,
+    "mapping_tied": false,
+    "alt_mappings": [],
+    "span_dev": 1.0,
+    "n_molecules": 1,
+    "path_flex_diff": -8.0,
+    "path_arom_diff": -0.01666666666666668
+  },
+  "*c1ccc(C2=CC(=O)C3C(O)=CC(O)=C(c4cc(*)ccc4*)C3O2)cc1": {
+    "rank": 23,
+    "mapping": {
+      "2": 3,
+      "13": 1,
+      "22": 2
+    },
+    "final_score": 0.7478,
+    "score": 0.6667,
+    "ecfp4_sim": null,
+    "usrcat_sim": 0.1376,
+    "mapping_sim": 0.1333,
+    "mapping_tied": false,
+    "alt_mappings": [],
+    "span_dev": 1.0,
+    "n_molecules": 2,
+    "path_flex_diff": -6.0,
+    "path_arom_diff": -0.08033333333333333
+  },
+  "*c1sc(=Nc2ccc(/N=c3/sc(*)c(C)s3)cc2)sc1*": {
+    "rank": 24,
+    "mapping": {
+      "2": 1,
+      "13": 2,
+      "22": 3
+    },
+    "final_score": 0.7434,
+    "score": 0.6,
+    "ecfp4_sim": null,
+    "usrcat_sim": 0.1527,
+    "mapping_sim": 0.1333,
+    "mapping_tied": false,
+    "alt_mappings": [],
+    "span_dev": 0.667,
+    "n_molecules": 1,
+    "path_flex_diff": -6.0,
+    "path_arom_diff": 0.06299999999999999
+  },
+  "*c1ccc2c(c1)CCN1Cc3c(ccc4[nH]c(*)c(*)c34)OC21": {
+    "rank": 25,
+    "mapping": {
+      "2": 3,
+      "13": 1,
+      "22": 2
+    },
+    "final_score": 0.7301,
+    "score": 0.52,
+    "ecfp4_sim": null,
+    "usrcat_sim": 0.1648,
+    "mapping_sim": 0.1333,
+    "mapping_tied": false,
+    "alt_mappings": [],
+    "span_dev": 1.0,
+    "n_molecules": 7,
+    "path_flex_diff": -10.0,
+    "path_arom_diff": 0.04700000000000001
+  },
+  "*C(=O)C1=C(N)n2c(s/c(=C\\c3ccc(*)cc3)c2=O)=CC1*": {
+    "rank": 26,
+    "mapping": {
+      "2": 3,
+      "13": 2,
+      "22": 1
+    },
+    "final_score": 0.7257,
+    "score": 0.65,
+    "ecfp4_sim": null,
+    "usrcat_sim": 0.1379,
+    "mapping_sim": 0.0667,
+    "mapping_tied": false,
+    "alt_mappings": [],
+    "span_dev": 0.667,
+    "n_molecules": 1,
+    "path_flex_diff": -6.0,
+    "path_arom_diff": -0.38033333333333336
+  },
+  "*c1ccc2c(c1)N[C@@H](*)CCCC[C@H](N1CCC(*)OC1=O)c1nc-2c(C#N)[nH]1": {
+    "rank": 27,
+    "mapping": {
+      "2": 2,
+      "13": 3,
+      "22": 1
+    },
+    "final_score": 0.7257,
+    "score": 0.5867,
+    "ecfp4_sim": null,
+    "usrcat_sim": 0.1513,
+    "mapping_sim": 0.0,
+    "mapping_tied": false,
+    "alt_mappings": [],
+    "span_dev": 1.0,
+    "n_molecules": 2,
+    "path_flex_diff": -8.0,
+    "path_arom_diff": -0.43133333333333335
+  },
+  "*c1ccc2c(c1)CCN1Cc3c(ccc4c3c(*)c(C)n4*)OC21": {
+    "rank": 28,
+    "mapping": {
+      "2": 2,
+      "13": 1,
+      "22": 3
+    },
+    "final_score": 0.7257,
+    "score": 0.52,
+    "ecfp4_sim": null,
+    "usrcat_sim": 0.1641,
+    "mapping_sim": 0.3,
+    "mapping_tied": false,
+    "alt_mappings": [],
+    "span_dev": 0.667,
+    "n_molecules": 2,
+    "path_flex_diff": -10.0,
+    "path_arom_diff": 0.04700000000000001
+  },
+  "*C(=O)C1=C(c2ccccc2)N=c2s/c(=C\\c3ccc(*)c(*)c3)c(=O)n2C1c1ccc(Cl)cc1": {
+    "rank": 29,
+    "mapping": {
+      "2": 3,
+      "13": 1,
+      "22": 2
+    },
+    "final_score": 0.7212,
+    "score": 0.62,
+    "ecfp4_sim": null,
+    "usrcat_sim": 0.1431,
+    "mapping_sim": 0.0667,
+    "mapping_tied": false,
+    "alt_mappings": [],
+    "span_dev": 1.0,
+    "n_molecules": 1,
+    "path_flex_diff": -6.0,
+    "path_arom_diff": -0.08033333333333333
+  },
+  "*C(=O)C1=C(C)N=c2s/c(=C\\c3cc(*)c(*)c(C)c3)c(=O)n2C1c1ccccc1Cl": {
+    "rank": 30,
+    "mapping": {
+      "2": 2,
+      "13": 1,
+      "22": 3
+    },
+    "final_score": 0.7168,
+    "score": 0.65,
+    "ecfp4_sim": null,
+    "usrcat_sim": 0.1358,
+    "mapping_sim": 0.0667,
+    "mapping_tied": false,
+    "alt_mappings": [],
+    "span_dev": 1.0,
+    "n_molecules": 1,
+    "path_flex_diff": -6.0,
+    "path_arom_diff": -0.08033333333333333
+  },
+  "*C(=O)C1=C(C)N=c2sc(=Cc3cc(*)c(*)c(Cl)c3)c(=O)n2C1c1ccccc1Cl": {
+    "rank": 31,
+    "mapping": {
+      "2": 2,
+      "13": 1,
+      "22": 3
+    },
+    "final_score": 0.708,
+    "score": 0.65,
+    "ecfp4_sim": null,
+    "usrcat_sim": 0.1341,
+    "mapping_sim": 0.0667,
+    "mapping_tied": false,
+    "alt_mappings": [],
+    "span_dev": 1.0,
+    "n_molecules": 1,
+    "path_flex_diff": -6.0,
+    "path_arom_diff": -0.08033333333333333
+  },
+  "*C(=O)C1=C(C)N=c2sc(=Cc3cc(Cl)c(*)c(Cl)c3)c(=O)n2C1c1cccc(*)c1": {
+    "rank": 32,
+    "mapping": {
+      "2": 3,
+      "13": 2,
+      "22": 1
+    },
+    "final_score": 0.7013,
+    "score": 0.65,
+    "ecfp4_sim": null,
+    "usrcat_sim": 0.1339,
+    "mapping_sim": 0.1333,
+    "mapping_tied": false,
+    "alt_mappings": [],
+    "span_dev": 1.0,
+    "n_molecules": 1,
+    "path_flex_diff": -4.0,
+    "path_arom_diff": -0.16933333333333334
+  },
+  "*C(=O)C1=C(C)N=c2s/c(=C\\c3cc(Cl)c(*)c(Cl)c3)c(=O)n2C1c1cccc(*)c1": {
+    "rank": 33,
+    "mapping": {
+      "2": 3,
+      "13": 2,
+      "22": 1
+    },
+    "final_score": 0.7013,
+    "score": 0.65,
+    "ecfp4_sim": null,
+    "usrcat_sim": 0.1339,
+    "mapping_sim": 0.1333,
+    "mapping_tied": false,
+    "alt_mappings": [],
+    "span_dev": 1.0,
+    "n_molecules": 1,
+    "path_flex_diff": -4.0,
+    "path_arom_diff": -0.16933333333333334
+  },
+  "*C(=O)C1=C(C)N=c2s/c(=C/c3cc(*)c(*)c(Cl)c3)c(=O)n2C1c1ccccc1Cl": {
+    "rank": 34,
+    "mapping": {
+      "2": 2,
+      "13": 1,
+      "22": 3
+    },
+    "final_score": 0.6947,
+    "score": 0.65,
+    "ecfp4_sim": null,
+    "usrcat_sim": 0.1322,
+    "mapping_sim": 0.0667,
+    "mapping_tied": false,
+    "alt_mappings": [],
+    "span_dev": 1.0,
+    "n_molecules": 1,
+    "path_flex_diff": -6.0,
+    "path_arom_diff": -0.08033333333333333
+  },
+  "*c1ccc(C2C3=C(N=c4s/c(=C\\c5ccc(*)c(*)c5)c(=O)n42)c2ccccc2CC3)cc1": {
+    "rank": 35,
+    "mapping": {
+      "2": 2,
+      "13": 1,
+      "22": 3
+    },
+    "final_score": 0.6814,
+    "score": 0.55,
+    "ecfp4_sim": null,
+    "usrcat_sim": 0.1472,
+    "mapping_sim": 0.1333,
+    "mapping_tied": true,
+    "alt_mappings": [
+      {
+        "2": 3,
+        "13": 1,
+        "22": 2
+      }
+    ],
+    "span_dev": 1.0,
+    "n_molecules": 1,
+    "path_flex_diff": -6.0,
+    "path_arom_diff": 0.06733333333333331
+  },
+  "*N[C@@H]1C(=O)N[C@@H](*)C(=O)NS(=O)(=O)CCC/C=C/c2cc(nc(*)n2)Oc2ccc1cc2": {
+    "rank": 36,
+    "mapping": {
+      "2": 1,
+      "13": 3,
+      "22": 2
+    },
+    "final_score": 0.6792,
+    "score": 0.5583,
+    "ecfp4_sim": null,
+    "usrcat_sim": 0.1431,
+    "mapping_sim": 0.0667,
+    "mapping_tied": false,
+    "alt_mappings": [],
+    "span_dev": 1.0,
+    "n_molecules": 1,
+    "path_flex_diff": -10.0,
+    "path_arom_diff": -0.3980000000000001
+  },
+  "*c1ccc(C2=Cc3n[nH]c(O)c3C(c3ccc(*)c(*)c3)C2)cc1": {
+    "rank": 37,
+    "mapping": {
+      "2": 3,
+      "13": 1,
+      "22": 2
+    },
+    "final_score": 0.6726,
+    "score": 0.7167,
+    "ecfp4_sim": null,
+    "usrcat_sim": 0.1294,
+    "mapping_sim": 0.1333,
+    "mapping_tied": false,
+    "alt_mappings": [],
+    "span_dev": 1.0,
+    "n_molecules": 1,
+    "path_flex_diff": -6.0,
+    "path_arom_diff": -0.01666666666666668
+  },
+  "*c1ccc(C2CC(c3ccc(*)c(*)c3)=Cc3n[nH]c(O)c32)cc1": {
+    "rank": 38,
+    "mapping": {
+      "2": 3,
+      "13": 1,
+      "22": 2
+    },
+    "final_score": 0.6726,
+    "score": 0.7167,
+    "ecfp4_sim": null,
+    "usrcat_sim": 0.1294,
+    "mapping_sim": 0.1333,
+    "mapping_tied": false,
+    "alt_mappings": [],
+    "span_dev": 1.0,
+    "n_molecules": 1,
+    "path_flex_diff": -6.0,
+    "path_arom_diff": -0.01666666666666668
+  },
+  "*C(=O)C1=C(C)N=c2s/c(=C/c3ccc(*)c(*)c3)c(=O)n2C1c1ccc(Cl)cc1": {
+    "rank": 39,
+    "mapping": {
+      "2": 3,
+      "13": 1,
+      "22": 2
+    },
+    "final_score": 0.6593,
+    "score": 0.65,
+    "ecfp4_sim": null,
+    "usrcat_sim": 0.1307,
+    "mapping_sim": 0.0667,
+    "mapping_tied": false,
+    "alt_mappings": [],
+    "span_dev": 1.0,
+    "n_molecules": 1,
+    "path_flex_diff": -6.0,
+    "path_arom_diff": -0.08033333333333333
+  },
+  "*C(=O)C1=C(C)N=c2s/c(=C/c3ccc(*)c(*)c3)c(=O)n2C1c1ccc(Br)cc1": {
+    "rank": 40,
+    "mapping": {
+      "2": 3,
+      "13": 1,
+      "22": 2
+    },
+    "final_score": 0.6527,
+    "score": 0.65,
+    "ecfp4_sim": null,
+    "usrcat_sim": 0.1306,
+    "mapping_sim": 0.0667,
+    "mapping_tied": false,
+    "alt_mappings": [],
+    "span_dev": 1.0,
+    "n_molecules": 1,
+    "path_flex_diff": -6.0,
+    "path_arom_diff": -0.08033333333333333
+  },
+  "*[C@H]1CC[C@H]2[C@@H]3CCC4=Cc5c(cc6c(=O)n(*)c(=O)nc-6n5*)C[C@]4(C)[C@H]3CC[C@]12C": {
+    "rank": 41,
+    "mapping": {
+      "2": 3,
+      "13": 1,
+      "22": 2
+    },
+    "final_score": 0.6504,
+    "score": 0.4333,
+    "ecfp4_sim": null,
+    "usrcat_sim": 0.1834,
+    "mapping_sim": 0.0667,
+    "mapping_tied": false,
+    "alt_mappings": [],
+    "span_dev": 1.0,
+    "n_molecules": 6,
+    "path_flex_diff": -10.0,
+    "path_arom_diff": -0.25333333333333335
+  },
+  "*C(=O)C1=C(C)N=c2s/c(=C\\c3ccc(*)cc3)c(=O)n2C1c1cccc(*)c1": {
+    "rank": 42,
+    "mapping": {
+      "2": 3,
+      "13": 2,
+      "22": 1
+    },
+    "final_score": 0.6394,
+    "score": 0.65,
+    "ecfp4_sim": null,
+    "usrcat_sim": 0.1302,
+    "mapping_sim": 0.1333,
+    "mapping_tied": false,
+    "alt_mappings": [],
+    "span_dev": 1.0,
+    "n_molecules": 2,
+    "path_flex_diff": -4.0,
+    "path_arom_diff": -0.16933333333333334
+  },
+  "*C(=O)C1=C(C)N=c2s/c(=C\\c3ccc(*)cc3)c(=O)n2C1c1ccccc1*": {
+    "rank": 43,
+    "mapping": {
+      "2": 3,
+      "13": 2,
+      "22": 1
+    },
+    "final_score": 0.6394,
+    "score": 0.65,
+    "ecfp4_sim": null,
+    "usrcat_sim": 0.1302,
+    "mapping_sim": 0.1333,
+    "mapping_tied": false,
+    "alt_mappings": [],
+    "span_dev": 1.0,
+    "n_molecules": 1,
+    "path_flex_diff": -4.0,
+    "path_arom_diff": -0.20766666666666667
+  },
+  "*c1cc2c(cc1*)[C@]1(O)[C@H](O)c3ccc4c(c3O[C@@H]1CO2)C[C@H](*)O4": {
+    "rank": 44,
+    "mapping": {
+      "2": 2,
+      "13": 3,
+      "22": 1
+    },
+    "final_score": 0.6327,
+    "score": 0.5067,
+    "ecfp4_sim": null,
+    "usrcat_sim": 0.1458,
+    "mapping_sim": 0.0667,
+    "mapping_tied": false,
+    "alt_mappings": [],
+    "span_dev": 1.0,
+    "n_molecules": 3,
+    "path_flex_diff": -10.0,
+    "path_arom_diff": -0.08033333333333333
+  },
+  "*c1cc2c(o1)Cc1ccc3c(c1C2)O[C@@H]1COc2cc(*)c(*)cc2[C@H]1C3=O": {
+    "rank": 45,
+    "mapping": {
+      "2": 2,
+      "13": 1,
+      "22": 3
+    },
+    "final_score": 0.6305,
+    "score": 0.45,
+    "ecfp4_sim": null,
+    "usrcat_sim": 0.1596,
+    "mapping_sim": 0.1333,
+    "mapping_tied": true,
+    "alt_mappings": [
+      {
+        "2": 3,
+        "13": 1,
+        "22": 2
+      }
+    ],
+    "span_dev": 1.0,
+    "n_molecules": 1,
+    "path_flex_diff": -10.0,
+    "path_arom_diff": 0.014000000000000012
+  },
+  "*c1cc2c(o1)Cc1ccc3c(c1C2)O[C@@H]1COc2cc(*)c(*)cc2[C@@H]1C3=O": {
+    "rank": 46,
+    "mapping": {
+      "2": 2,
+      "13": 1,
+      "22": 3
+    },
+    "final_score": 0.6217,
+    "score": 0.45,
+    "ecfp4_sim": null,
+    "usrcat_sim": 0.157,
+    "mapping_sim": 0.1333,
+    "mapping_tied": true,
+    "alt_mappings": [
+      {
+        "2": 3,
+        "13": 1,
+        "22": 2
+      }
+    ],
+    "span_dev": 1.0,
+    "n_molecules": 1,
+    "path_flex_diff": -10.0,
+    "path_arom_diff": 0.014000000000000012
+  },
+  "*C(=O)C1=C(C)N=c2s/c(=C/c3ccc(*)cc3)c(=O)n2C1c1cccc(*)c1": {
+    "rank": 47,
+    "mapping": {
+      "2": 3,
+      "13": 2,
+      "22": 1
+    },
+    "final_score": 0.6195,
+    "score": 0.65,
+    "ecfp4_sim": null,
+    "usrcat_sim": 0.1292,
+    "mapping_sim": 0.1333,
+    "mapping_tied": false,
+    "alt_mappings": [],
+    "span_dev": 1.0,
+    "n_molecules": 1,
+    "path_flex_diff": -4.0,
+    "path_arom_diff": -0.16933333333333334
+  },
+  "*c1ccc(C2NOc3c2sc2nc4nc5c(c(*)c4c(=O)n32)CCCC5*)cc1": {
+    "rank": 48,
+    "mapping": {
+      "2": 2,
+      "13": 1,
+      "22": 3
+    },
+    "final_score": 0.6173,
+    "score": 0.4667,
+    "ecfp4_sim": null,
+    "usrcat_sim": 0.1517,
+    "mapping_sim": 0.2333,
+    "mapping_tied": false,
+    "alt_mappings": [],
+    "span_dev": 0.667,
+    "n_molecules": 1,
+    "path_flex_diff": -8.0,
+    "path_arom_diff": 0.009333333333333341
+  },
+  "*c1cc2nc(O)c3c(c2cc1*)CCC[C@@H]3N1CCC(*)CC1": {
+    "rank": 49,
+    "mapping": {
+      "2": 2,
+      "13": 3,
+      "22": 1
+    },
+    "final_score": 0.6018,
+    "score": 0.6,
+    "ecfp4_sim": null,
+    "usrcat_sim": 0.1303,
+    "mapping_sim": 0.0667,
+    "mapping_tied": false,
+    "alt_mappings": [],
+    "span_dev": 1.0,
+    "n_molecules": 1,
+    "path_flex_diff": -8.0,
+    "path_arom_diff": -0.144
+  },
+  "*[C@@H]1NC(=O)/C=C\\c2ccccc2OCOC(=O)[C@H](*)NC(=O)[C@H](*)NC(=O)CNC(=O)[C@H](C)NC1=O": {
+    "rank": 50,
+    "mapping": {
+      "2": 3,
+      "13": 1,
+      "22": 2
+    },
+    "final_score": 0.5907,
+    "score": 0.395,
+    "ecfp4_sim": null,
+    "usrcat_sim": 0.1813,
+    "mapping_sim": 0.0,
+    "mapping_tied": false,
+    "alt_mappings": [],
+    "span_dev": 0.667,
+    "n_molecules": 1,
+    "path_flex_diff": -10.0,
+    "path_arom_diff": -0.7699999999999999
+  },
+  "*c1cc2c(cc1*)[C@]1(O)C(=O)c3ccc4c(c3O[C@@H]1CO2)C[C@H](*)O4": {
+    "rank": 51,
+    "mapping": {
+      "2": 2,
+      "13": 3,
+      "22": 1
+    },
+    "final_score": 0.573,
+    "score": 0.44,
+    "ecfp4_sim": null,
+    "usrcat_sim": 0.1476,
+    "mapping_sim": 0.0667,
+    "mapping_tied": false,
+    "alt_mappings": [],
+    "span_dev": 1.0,
+    "n_molecules": 3,
+    "path_flex_diff": -10.0,
+    "path_arom_diff": -0.08033333333333333
+  },
+  "*c1ccc(S(=O)(=O)c2cn(C)c3cc(*)c(*)cc3c2=O)cc1": {
+    "rank": 52,
+    "mapping": {
+      "2": 3,
+      "13": 1,
+      "22": 2
+    },
+    "final_score": 0.5376,
+    "score": 0.7,
+    "ecfp4_sim": null,
+    "usrcat_sim": 0.1168,
+    "mapping_sim": 0.1333,
+    "mapping_tied": false,
+    "alt_mappings": [],
+    "span_dev": 1.0,
+    "n_molecules": 2,
+    "path_flex_diff": -6.0,
+    "path_arom_diff": 0.11066666666666669
+  },
+  "*c1cc2c3c(ccc2o1)C(=O)[C@H]1c2cc(*)c(*)cc2OCC1O3": {
+    "rank": 53,
+    "mapping": {
+      "2": 2,
+      "13": 1,
+      "22": 3
+    },
+    "final_score": 0.5376,
+    "score": 0.47,
+    "ecfp4_sim": null,
+    "usrcat_sim": 0.1316,
+    "mapping_sim": 0.1333,
+    "mapping_tied": false,
+    "alt_mappings": [],
+    "span_dev": 1.0,
+    "n_molecules": 1,
+    "path_flex_diff": -10.0,
+    "path_arom_diff": 0.04700000000000001
+  },
+  "*c1ccc(S(=O)(=O)CC2=NCCc3cc(*)c(*)cc32)cc1": {
+    "rank": 54,
+    "mapping": {
+      "2": 3,
+      "13": 1,
+      "22": 2
+    },
+    "final_score": 0.5177,
+    "score": 0.6833,
+    "ecfp4_sim": null,
+    "usrcat_sim": 0.1156,
+    "mapping_sim": 0.1333,
+    "mapping_tied": false,
+    "alt_mappings": [],
+    "span_dev": 1.0,
+    "n_molecules": 1,
+    "path_flex_diff": -4.0,
+    "path_arom_diff": -0.01666666666666668
+  },
+  "*[C@H]1C[C@H](*)[C@H]([C@]2(C)CC[C@H]([C@]3(C)CC[C@]4(C[C@H](O)[C@@H](C)[C@@H](*)O4)O3)O2)O1": {
+    "rank": 55,
+    "mapping": {
+      "2": 2,
+      "13": 3,
+      "22": 1
+    },
+    "final_score": 0.5155,
+    "score": 0.4367,
+    "ecfp4_sim": null,
+    "usrcat_sim": 0.1381,
+    "mapping_sim": 0.0,
+    "mapping_tied": false,
+    "alt_mappings": [],
+    "span_dev": 0.667,
+    "n_molecules": 4,
+    "path_flex_diff": -6.0,
+    "path_arom_diff": -0.8256666666666667
+  },
+  "*[C@@H]1NC(=O)/C=C\\c2ccccc2OCOC(=O)[C@@H](*)NC(=O)[C@H](*)NC(=O)CNC(=O)[C@H](C)NC1=O": {
+    "rank": 56,
+    "mapping": {
+      "2": 3,
+      "13": 1,
+      "22": 2
+    },
+    "final_score": 0.5155,
+    "score": 0.395,
+    "ecfp4_sim": null,
+    "usrcat_sim": 0.1544,
+    "mapping_sim": 0.0,
+    "mapping_tied": false,
+    "alt_mappings": [],
+    "span_dev": 0.667,
+    "n_molecules": 1,
+    "path_flex_diff": -10.0,
+    "path_arom_diff": -0.7699999999999999
+  },
+  "*CC1C(C(*)=O)=C(C)N=c2s/c(=C\\c3ccc(*)cc3)c(=O)n21": {
+    "rank": 57,
+    "mapping": {
+      "2": 1,
+      "13": 3,
+      "22": 2
+    },
+    "final_score": 0.5133,
+    "score": 0.5833,
+    "ecfp4_sim": null,
+    "usrcat_sim": 0.1245,
+    "mapping_sim": 0.0667,
+    "mapping_tied": false,
+    "alt_mappings": [],
+    "span_dev": 1.0,
+    "n_molecules": 1,
+    "path_flex_diff": -6.0,
+    "path_arom_diff": -0.38033333333333336
+  },
+  "*c1ccc(C2=CN3C(=O)c4cc(*)c(*)cc4N=C[C@@H]3C2)nc1": {
+    "rank": 58,
+    "mapping": {
+      "2": 2,
+      "13": 1,
+      "22": 3
+    },
+    "final_score": 0.5088,
+    "score": 0.5333,
+    "ecfp4_sim": null,
+    "usrcat_sim": 0.1279,
+    "mapping_sim": 0.1333,
+    "mapping_tied": true,
+    "alt_mappings": [
+      {
+        "2": 3,
+        "13": 1,
+        "22": 2
+      }
+    ],
+    "span_dev": 0.333,
+    "n_molecules": 1,
+    "path_flex_diff": -8.0,
+    "path_arom_diff": -0.057999999999999975
+  },
+  "*[C@H]1CC[C@]2(C)[C@H]3CC[C@@H]4[C@@]5(C)CC[C@@H](O)[C@@](*)(C)[C@@H]5C[C@H](O)[C@@]4(O)C[C@]3(C)CC[C@H]2[C@]1(*)C": {
+    "rank": 59,
+    "mapping": {
+      "2": 3,
+      "13": 2,
+      "22": 1
+    },
+    "final_score": 0.5022,
+    "score": 0.52,
+    "ecfp4_sim": null,
+    "usrcat_sim": 0.1281,
+    "mapping_sim": 0.0,
+    "mapping_tied": false,
+    "alt_mappings": [],
+    "span_dev": 1.0,
+    "n_molecules": 1,
+    "path_flex_diff": -10.0,
+    "path_arom_diff": -0.8256666666666667
+  },
+  "*C(=O)n1c(*)cs/c1=N\\S(=O)(=O)c1ccc(N2N=C3c4ccccc4CC3C2*)cc1": {
+    "rank": 60,
+    "mapping": {
+      "2": 2,
+      "13": 3,
+      "22": 1
+    },
+    "final_score": 0.4978,
+    "score": 0.62,
+    "ecfp4_sim": null,
+    "usrcat_sim": 0.1199,
+    "mapping_sim": 0.0667,
+    "mapping_tied": false,
+    "alt_mappings": [],
+    "span_dev": 0.333,
+    "n_molecules": 1,
+    "path_flex_diff": -2.0,
+    "path_arom_diff": -0.20966666666666664
+  },
+  "*c1cc2c(cc1*)[C@@H]1C(=O)c3ccc4c(c3O[C@@H]1CO2)CCC(*)(C)O4": {
+    "rank": 61,
+    "mapping": {
+      "2": 1,
+      "13": 3,
+      "22": 2
+    },
+    "final_score": 0.4779,
+    "score": 0.4033,
+    "ecfp4_sim": null,
+    "usrcat_sim": 0.139,
+    "mapping_sim": 0.0667,
+    "mapping_tied": true,
+    "alt_mappings": [
+      {
+        "2": 2,
+        "13": 3,
+        "22": 1
+      }
+    ],
+    "span_dev": 0.333,
+    "n_molecules": 1,
+    "path_flex_diff": -10.0,
+    "path_arom_diff": -0.057999999999999975
+  },
+  "*c1ccc2cc(C3=CN4C(=O)c5cc(*)c(*)cc5N=C[C@@H]4C3)ccc2c1": {
+    "rank": 62,
+    "mapping": {
+      "2": 2,
+      "13": 1,
+      "22": 3
+    },
+    "final_score": 0.4646,
+    "score": 0.5033,
+    "ecfp4_sim": null,
+    "usrcat_sim": 0.1264,
+    "mapping_sim": 0.1333,
+    "mapping_tied": true,
+    "alt_mappings": [
+      {
+        "2": 3,
+        "13": 1,
+        "22": 2
+      }
+    ],
+    "span_dev": 1.667,
+    "n_molecules": 2,
+    "path_flex_diff": -8.0,
+    "path_arom_diff": -0.023666666666666687
+  },
+  "*c1cc2cc(c1*)Oc1ccc(cc1)CCc1cccc(*)c1Oc1cccc(c1)CC2": {
+    "rank": 63,
+    "mapping": {
+      "2": 1,
+      "13": 3,
+      "22": 2
+    },
+    "final_score": 0.4602,
+    "score": 0.3833,
+    "ecfp4_sim": null,
+    "usrcat_sim": 0.1489,
+    "mapping_sim": 0.2333,
+    "mapping_tied": true,
+    "alt_mappings": [
+      {
+        "2": 2,
+        "13": 3,
+        "22": 1
+      }
+    ],
+    "span_dev": 0.333,
+    "n_molecules": 1,
+    "path_flex_diff": -10.0,
+    "path_arom_diff": 0.0
+  },
+  "*[C@@H]1NC(=O)/C=C\\c2ccccc2OCOC(=O)[C@H](*)NC(=O)[C@H](*)NC(=O)CNC(=O)[C@@H](C)NC1=O": {
+    "rank": 64,
+    "mapping": {
+      "2": 3,
+      "13": 1,
+      "22": 2
+    },
+    "final_score": 0.458,
+    "score": 0.395,
+    "ecfp4_sim": null,
+    "usrcat_sim": 0.1413,
+    "mapping_sim": 0.0,
+    "mapping_tied": false,
+    "alt_mappings": [],
+    "span_dev": 0.667,
+    "n_molecules": 1,
+    "path_flex_diff": -10.0,
+    "path_arom_diff": -0.7699999999999999
+  },
+  "*c1cc2c(cc1*)-c1c(oc3c4c(ccc3c1=O)OC(*)C4)CO2": {
+    "rank": 65,
+    "mapping": {
+      "2": 2,
+      "13": 3,
+      "22": 1
+    },
+    "final_score": 0.4558,
+    "score": 0.47,
+    "ecfp4_sim": null,
+    "usrcat_sim": 0.1281,
+    "mapping_sim": 0.0667,
+    "mapping_tied": false,
+    "alt_mappings": [],
+    "span_dev": 1.0,
+    "n_molecules": 1,
+    "path_flex_diff": -10.0,
+    "path_arom_diff": 0.04700000000000001
+  },
+  "*c1cc2c(*)c(c1)COCCOCCOc1cc(*)ccc1OCCOCCOC2": {
+    "rank": 66,
+    "mapping": {
+      "2": 2,
+      "13": 3,
+      "22": 1
+    },
+    "final_score": 0.4558,
+    "score": 0.4333,
+    "ecfp4_sim": null,
+    "usrcat_sim": 0.1321,
+    "mapping_sim": 0.2333,
+    "mapping_tied": false,
+    "alt_mappings": [],
+    "span_dev": 1.667,
+    "n_molecules": 1,
+    "path_flex_diff": -10.0,
+    "path_arom_diff": -0.221
+  },
+  "*[C@@H]1C[C@@H](*)[C@@H](C)[C@]2(O1)O[C@](C)([C@H]1CC[C@@](C)(C3OC([C@H]4O[C@](*)(O)[C@H](C)C[C@@H]4C)C[C@@H]3C)O1)C[C@H]2C": {
+    "rank": 67,
+    "mapping": {
+      "2": 1,
+      "13": 3,
+      "22": 2
+    },
+    "final_score": 0.4491,
+    "score": 0.4367,
+    "ecfp4_sim": null,
+    "usrcat_sim": 0.1308,
+    "mapping_sim": 0.0,
+    "mapping_tied": true,
+    "alt_mappings": [
+      {
+        "2": 2,
+        "13": 3,
+        "22": 1
+      }
+    ],
+    "span_dev": 1.667,
+    "n_molecules": 1,
+    "path_flex_diff": -4.0,
+    "path_arom_diff": -0.8256666666666667
+  },
+  "*c1ccc(C2=NOC([C@@]3(C)CC(=O)[C@]4(O)[C@@]5(C)[C@@H](*)CCC(C)(C)[C@@H]5[C@H](O)[C@H](*)[C@@]4(C)O3)C2)cc1": {
+    "rank": 68,
+    "mapping": {
+      "2": 2,
+      "13": 1,
+      "22": 3
+    },
+    "final_score": 0.4469,
+    "score": 0.52,
+    "ecfp4_sim": null,
+    "usrcat_sim": 0.123,
+    "mapping_sim": 0.0667,
+    "mapping_tied": true,
+    "alt_mappings": [
+      {
+        "2": 3,
+        "13": 1,
+        "22": 2
+      }
+    ],
+    "span_dev": 1.0,
+    "n_molecules": 2,
+    "path_flex_diff": -6.0,
+    "path_arom_diff": -0.6016666666666667
+  },
+  "*c1ccc(C2=NOC([C@@]3(C)CC(=O)[C@]4(O)[C@@]5(C)[C@@H](*)CCC(C)(C)[C@@H]5[C@H](*)[C@H](O)[C@@]4(C)O3)C2)cc1": {
+    "rank": 69,
+    "mapping": {
+      "2": 2,
+      "13": 1,
+      "22": 3
+    },
+    "final_score": 0.4336,
+    "score": 0.52,
+    "ecfp4_sim": null,
+    "usrcat_sim": 0.1219,
+    "mapping_sim": 0.0667,
+    "mapping_tied": true,
+    "alt_mappings": [
+      {
+        "2": 3,
+        "13": 1,
+        "22": 2
+      }
+    ],
+    "span_dev": 1.0,
+    "n_molecules": 2,
+    "path_flex_diff": -6.0,
+    "path_arom_diff": -0.612
+  },
+  "*c1cc2c(cc1*)[C@@H]1C(=O)c3ccc4c(c3O[C@@H]1CO2)C[C@H](*)O4": {
+    "rank": 70,
+    "mapping": {
+      "2": 2,
+      "13": 3,
+      "22": 1
+    },
+    "final_score": 0.4204,
+    "score": 0.4033,
+    "ecfp4_sim": null,
+    "usrcat_sim": 0.1315,
+    "mapping_sim": 0.0667,
+    "mapping_tied": false,
+    "alt_mappings": [],
+    "span_dev": 1.0,
+    "n_molecules": 7,
+    "path_flex_diff": -10.0,
+    "path_arom_diff": -0.08033333333333333
+  },
+  "*c1cc2c(cc1*)[C@@H]1C(=O)c3ccc4c(c3O[C@@H]1CO2)CC(*)O4": {
+    "rank": 71,
+    "mapping": {
+      "2": 2,
+      "13": 3,
+      "22": 1
+    },
+    "final_score": 0.4204,
+    "score": 0.4033,
+    "ecfp4_sim": null,
+    "usrcat_sim": 0.1315,
+    "mapping_sim": 0.0667,
+    "mapping_tied": false,
+    "alt_mappings": [],
+    "span_dev": 1.0,
+    "n_molecules": 1,
+    "path_flex_diff": -10.0,
+    "path_arom_diff": -0.08033333333333333
+  },
+  "*c1cc2c(cc1*)[C@@H]1C(=O)c3ccc4c(c3OC1CO2)CC(*)O4": {
+    "rank": 72,
+    "mapping": {
+      "2": 2,
+      "13": 3,
+      "22": 1
+    },
+    "final_score": 0.4204,
+    "score": 0.4033,
+    "ecfp4_sim": null,
+    "usrcat_sim": 0.1315,
+    "mapping_sim": 0.0667,
+    "mapping_tied": false,
+    "alt_mappings": [],
+    "span_dev": 1.0,
+    "n_molecules": 1,
+    "path_flex_diff": -10.0,
+    "path_arom_diff": -0.08033333333333333
+  },
+  "*c1ccc(/C=c2\\sc3nc4nc5c(c(*)c4c(=O)n3c2=O)CCCC5*)cc1": {
+    "rank": 73,
+    "mapping": {
+      "2": 2,
+      "13": 1,
+      "22": 3
+    },
+    "final_score": 0.4181,
+    "score": 0.44,
+    "ecfp4_sim": null,
+    "usrcat_sim": 0.1289,
+    "mapping_sim": 0.2333,
+    "mapping_tied": false,
+    "alt_mappings": [],
+    "span_dev": 0.667,
+    "n_molecules": 2,
+    "path_flex_diff": -8.0,
+    "path_arom_diff": 0.009333333333333341
+  },
+  "*c1cc2c(cc1*)[C@]1(C)C(=O)c3ccc4c(c3O[C@@H]1CO2)C[C@H](*)O4": {
+    "rank": 74,
+    "mapping": {
+      "2": 2,
+      "13": 3,
+      "22": 1
+    },
+    "final_score": 0.4115,
+    "score": 0.4033,
+    "ecfp4_sim": null,
+    "usrcat_sim": 0.1309,
+    "mapping_sim": 0.0667,
+    "mapping_tied": false,
+    "alt_mappings": [],
+    "span_dev": 1.0,
+    "n_molecules": 1,
+    "path_flex_diff": -10.0,
+    "path_arom_diff": -0.08033333333333333
+  },
+  "*c1cc2c(cc1*)[C@@H]1[C@H](O)c3ccc4c(c3O[C@@H]1CO2)C[C@H](*)O4": {
+    "rank": 75,
+    "mapping": {
+      "2": 2,
+      "13": 3,
+      "22": 1
+    },
+    "final_score": 0.4049,
+    "score": 0.47,
+    "ecfp4_sim": null,
+    "usrcat_sim": 0.1232,
+    "mapping_sim": 0.0667,
+    "mapping_tied": false,
+    "alt_mappings": [],
+    "span_dev": 1.0,
+    "n_molecules": 3,
+    "path_flex_diff": -10.0,
+    "path_arom_diff": -0.08033333333333333
+  },
+  "*c1ccc2c(c1)CCN1Cc3c(ccc4c3c(*)c(*)n4C)OC21": {
+    "rank": 76,
+    "mapping": {
+      "2": 2,
+      "13": 1,
+      "22": 3
+    },
+    "final_score": 0.4004,
+    "score": 0.4533,
+    "ecfp4_sim": null,
+    "usrcat_sim": 0.1252,
+    "mapping_sim": 0.1333,
+    "mapping_tied": false,
+    "alt_mappings": [],
+    "span_dev": 1.0,
+    "n_molecules": 3,
+    "path_flex_diff": -10.0,
+    "path_arom_diff": 0.04700000000000001
+  },
+  "*c1cc2c(*)c(c1)COCCOCCOc1c(C)cc(*)cc1OCCOCCOC2": {
+    "rank": 77,
+    "mapping": {
+      "2": 2,
+      "13": 3,
+      "22": 1
+    },
+    "final_score": 0.3982,
+    "score": 0.4333,
+    "ecfp4_sim": null,
+    "usrcat_sim": 0.1299,
+    "mapping_sim": 0.2333,
+    "mapping_tied": false,
+    "alt_mappings": [],
+    "span_dev": 1.667,
+    "n_molecules": 2,
+    "path_flex_diff": -10.0,
+    "path_arom_diff": -0.221
+  },
+  "*c1ccc2c(c1)cc1n2CCN2C(=O)c3cc(*)c(*)cc3N(C)C12": {
+    "rank": 78,
+    "mapping": {
+      "2": 3,
+      "13": 1,
+      "22": 2
+    },
+    "final_score": 0.385,
+    "score": 0.4533,
+    "ecfp4_sim": null,
+    "usrcat_sim": 0.1236,
+    "mapping_sim": 0.1333,
+    "mapping_tied": false,
+    "alt_mappings": [],
+    "span_dev": 1.0,
+    "n_molecules": 1,
+    "path_flex_diff": -10.0,
+    "path_arom_diff": 0.04700000000000001
+  },
+  "*c1ccc(C2=NN3C(=O)c4c(ccc(*)c4*)C3C2)cc1": {
+    "rank": 79,
+    "mapping": {
+      "2": 3,
+      "13": 1,
+      "22": 2
+    },
+    "final_score": 0.3783,
+    "score": 0.4667,
+    "ecfp4_sim": null,
+    "usrcat_sim": 0.122,
+    "mapping_sim": 0.1333,
+    "mapping_tied": false,
+    "alt_mappings": [],
+    "span_dev": 1.0,
+    "n_molecules": 2,
+    "path_flex_diff": -8.0,
+    "path_arom_diff": -0.08033333333333333
+  },
+  "*c1cc2c3c(ccc2o1)C(=O)[C@H]1c2cc(*)c(*)cc2OC[C@H]1O3": {
+    "rank": 80,
+    "mapping": {
+      "2": 2,
+      "13": 1,
+      "22": 3
+    },
+    "final_score": 0.3739,
+    "score": 0.47,
+    "ecfp4_sim": null,
+    "usrcat_sim": 0.1198,
+    "mapping_sim": 0.1333,
+    "mapping_tied": false,
+    "alt_mappings": [],
+    "span_dev": 1.0,
+    "n_molecules": 1,
+    "path_flex_diff": -10.0,
+    "path_arom_diff": 0.04700000000000001
+  },
+  "*c1ccc(C2=CN3C(=O)c4cc(*)c(*)cc4N=C[C@@H]3C2)cc1": {
+    "rank": 81,
+    "mapping": {
+      "2": 2,
+      "13": 1,
+      "22": 3
+    },
+    "final_score": 0.3695,
+    "score": 0.4667,
+    "ecfp4_sim": null,
+    "usrcat_sim": 0.1219,
+    "mapping_sim": 0.1333,
+    "mapping_tied": true,
+    "alt_mappings": [
+      {
+        "2": 3,
+        "13": 1,
+        "22": 2
+      }
+    ],
+    "span_dev": 0.333,
+    "n_molecules": 20,
+    "path_flex_diff": -8.0,
+    "path_arom_diff": -0.057999999999999975
+  },
+  "*c1cccc(C2=CN3C(=O)c4cc(*)c(*)cc4N=C[C@@H]3C2)c1": {
+    "rank": 82,
+    "mapping": {
+      "2": 2,
+      "13": 1,
+      "22": 3
+    },
+    "final_score": 0.3695,
+    "score": 0.4667,
+    "ecfp4_sim": null,
+    "usrcat_sim": 0.1219,
+    "mapping_sim": 0.1333,
+    "mapping_tied": false,
+    "alt_mappings": [],
+    "span_dev": 1.0,
+    "n_molecules": 7,
+    "path_flex_diff": -8.0,
+    "path_arom_diff": -0.08033333333333333
+  },
+  "*[C@@H]1C[C@@H](*)[C@@H](C)[C@]2(O1)O[C@](C)([C@H]1CC[C@@](C)([C@@H]3O[C@@H]([C@H]4O[C@](*)(O)[C@H](C)C[C@@H]4C)C[C@@H]3C)O1)C[C@H]2C": {
+    "rank": 83,
+    "mapping": {
+      "2": 1,
+      "13": 3,
+      "22": 2
+    },
+    "final_score": 0.3695,
+    "score": 0.4367,
+    "ecfp4_sim": null,
+    "usrcat_sim": 0.1256,
+    "mapping_sim": 0.0,
+    "mapping_tied": true,
+    "alt_mappings": [
+      {
+        "2": 2,
+        "13": 3,
+        "22": 1
+      }
+    ],
+    "span_dev": 1.667,
+    "n_molecules": 2,
+    "path_flex_diff": -4.0,
+    "path_arom_diff": -0.8256666666666667
+  },
+  "*[C@@H]1C[C@@H](*)[C@@H](C)C2(O1)O[C@](C)([C@H]1CC[C@@](C)([C@@H]3O[C@@H]([C@H]4O[C@](*)(O)[C@H](C)C[C@@H]4C)C[C@@H]3C)O1)C[C@H]2C": {
+    "rank": 84,
+    "mapping": {
+      "2": 1,
+      "13": 3,
+      "22": 2
+    },
+    "final_score": 0.3606,
+    "score": 0.4367,
+    "ecfp4_sim": null,
+    "usrcat_sim": 0.1251,
+    "mapping_sim": 0.0,
+    "mapping_tied": true,
+    "alt_mappings": [
+      {
+        "2": 2,
+        "13": 3,
+        "22": 1
+      }
+    ],
+    "span_dev": 1.667,
+    "n_molecules": 6,
+    "path_flex_diff": -4.0,
+    "path_arom_diff": -0.8256666666666667
+  },
+  "*[C@@H]1C[C@@H](*)[C@@H](C)[C@]2(CC[C@@](C)([C@H]3CC[C@@H](C)[C@@]4(O[C@@H]([C@H]5O[C@](*)(O)[C@H](C)C[C@@H]5C)C[C@@H]4C)O3)O2)O1": {
+    "rank": 85,
+    "mapping": {
+      "2": 1,
+      "13": 3,
+      "22": 2
+    },
+    "final_score": 0.3496,
+    "score": 0.3867,
+    "ecfp4_sim": null,
+    "usrcat_sim": 0.1306,
+    "mapping_sim": 0.0,
+    "mapping_tied": true,
+    "alt_mappings": [
+      {
+        "2": 2,
+        "13": 3,
+        "22": 1
+      }
+    ],
+    "span_dev": 1.0,
+    "n_molecules": 2,
+    "path_flex_diff": -6.0,
+    "path_arom_diff": -0.8256666666666667
+  },
+  "*[C@@H]1NC(=O)/C=C\\c2ccccc2OCOC(=O)[C@@H](*)NC(=O)[C@H](*)NC(=O)CNC(=O)[C@@H](C)NC1=O": {
+    "rank": 86,
+    "mapping": {
+      "2": 3,
+      "13": 1,
+      "22": 2
+    },
+    "final_score": 0.3252,
+    "score": 0.395,
+    "ecfp4_sim": null,
+    "usrcat_sim": 0.1287,
+    "mapping_sim": 0.0,
+    "mapping_tied": false,
+    "alt_mappings": [],
+    "span_dev": 0.667,
+    "n_molecules": 1,
+    "path_flex_diff": -10.0,
+    "path_arom_diff": -0.7699999999999999
+  },
+  "*[C@H]1C[C@H]([C@H]2O[C@@](*)(C)[C@H](C)C[C@@H]2C)O[C@H]1[C@]1(C)CC[C@H]([C@]2(C)CC[C@]3(C[C@H](O)[C@@H](C)[C@@H](*)O3)O2)O1": {
+    "rank": 87,
+    "mapping": {
+      "2": 1,
+      "13": 3,
+      "22": 2
+    },
+    "final_score": 0.2942,
+    "score": 0.4367,
+    "ecfp4_sim": null,
+    "usrcat_sim": 0.1177,
+    "mapping_sim": 0.0,
+    "mapping_tied": false,
+    "alt_mappings": [],
+    "span_dev": 2.0,
+    "n_molecules": 2,
+    "path_flex_diff": -4.0,
+    "path_arom_diff": -0.8256666666666667
+  },
+  "*c1ccc2ccc3c(c2c1)CN1CCc2cc(*)c(*)cc2C1C3": {
+    "rank": 88,
+    "mapping": {
+      "2": 3,
+      "13": 1,
+      "22": 2
+    },
+    "final_score": 0.2854,
+    "score": 0.3867,
+    "ecfp4_sim": null,
+    "usrcat_sim": 0.1258,
+    "mapping_sim": 0.1333,
+    "mapping_tied": false,
+    "alt_mappings": [],
+    "span_dev": 1.0,
+    "n_molecules": 1,
+    "path_flex_diff": -10.0,
+    "path_arom_diff": 0.04700000000000001
+  },
+  "*c1cc2c(cc1*)C1C(=O)c3ccc4c(c3OC1CO2)CC(*)O4": {
+    "rank": 89,
+    "mapping": {
+      "2": 2,
+      "13": 3,
+      "22": 1
+    },
+    "final_score": 0.2611,
+    "score": 0.4033,
+    "ecfp4_sim": null,
+    "usrcat_sim": 0.1181,
+    "mapping_sim": 0.0667,
+    "mapping_tied": false,
+    "alt_mappings": [],
+    "span_dev": 1.0,
+    "n_molecules": 1,
+    "path_flex_diff": -10.0,
+    "path_arom_diff": -0.08033333333333333
+  },
+  "*c1cc2c(cc1*)[C@H]1C(=O)c3ccc4c(c3O[C@H]1CO2)C[C@@H](*)O4": {
+    "rank": 90,
+    "mapping": {
+      "2": 2,
+      "13": 3,
+      "22": 1
+    },
+    "final_score": 0.2566,
+    "score": 0.4033,
+    "ecfp4_sim": null,
+    "usrcat_sim": 0.118,
+    "mapping_sim": 0.0667,
+    "mapping_tied": false,
+    "alt_mappings": [],
+    "span_dev": 1.0,
+    "n_molecules": 1,
+    "path_flex_diff": -10.0,
+    "path_arom_diff": -0.08033333333333333
+  },
+  "*[C@H]1C[C@@H]([C@@H]2CC[C@]34C[C@]23CC[C@@H]2[C@@]3(C)CC[C@H](*)C(C)(C)[C@@H]3C[C@@H](O)[C@]24C)[C@@H](*)O1": {
+    "rank": 91,
+    "mapping": {
+      "2": 1,
+      "13": 2,
+      "22": 3
+    },
+    "final_score": 0.2434,
+    "score": 0.35,
+    "ecfp4_sim": null,
+    "usrcat_sim": 0.1236,
+    "mapping_sim": 0.0,
+    "mapping_tied": true,
+    "alt_mappings": [
+      {
+        "2": 3,
+        "13": 2,
+        "22": 1
+      }
+    ],
+    "span_dev": 0.0,
+    "n_molecules": 1,
+    "path_flex_diff": -8.0,
+    "path_arom_diff": -0.8256666666666667
+  },
+  "*C1CC(*)C(C)C2(O1)OC(C)(C1CCC(C)(C3OC(C4OC(*)(O)C(C)CC4C)CC3C)O1)CC2C": {
+    "rank": 92,
+    "mapping": {
+      "2": 1,
+      "13": 3,
+      "22": 2
+    },
+    "final_score": 0.2367,
+    "score": 0.4367,
+    "ecfp4_sim": null,
+    "usrcat_sim": 0.1078,
+    "mapping_sim": 0.0,
+    "mapping_tied": true,
+    "alt_mappings": [
+      {
+        "2": 2,
+        "13": 3,
+        "22": 1
+      }
+    ],
+    "span_dev": 1.667,
+    "n_molecules": 1,
+    "path_flex_diff": -4.0,
+    "path_arom_diff": -0.8256666666666667
+  },
+  "*[C@@H]1O[C@@H](*)C[C@H]1[C@@H]1CC[C@]23C[C@]12CC[C@@H]1[C@@]2(C)CC[C@H](*)C(C)(C)[C@@H]2C[C@@H](O)[C@]13C": {
+    "rank": 93,
+    "mapping": {
+      "2": 1,
+      "13": 3,
+      "22": 2
+    },
+    "final_score": 0.2367,
+    "score": 0.35,
+    "ecfp4_sim": null,
+    "usrcat_sim": 0.1233,
+    "mapping_sim": 0.0,
+    "mapping_tied": true,
+    "alt_mappings": [
+      {
+        "2": 2,
+        "13": 3,
+        "22": 1
+      }
+    ],
+    "span_dev": 0.0,
+    "n_molecules": 2,
+    "path_flex_diff": -8.0,
+    "path_arom_diff": -0.8256666666666667
+  },
+  "*[C@@H]1CC[C@]2(C)[C@H]3CC[C@H]4[C@@](C)(CC[C@H]5[C@](*)(C)[C@@H](*)CC[C@]45C)C[C@]3(O)[C@@H](O)C[C@H]2C1(C)C": {
+    "rank": 94,
+    "mapping": {
+      "2": 2,
+      "13": 1,
+      "22": 3
+    },
+    "final_score": 0.1792,
+    "score": 0.3867,
+    "ecfp4_sim": null,
+    "usrcat_sim": 0.1129,
+    "mapping_sim": 0.0,
+    "mapping_tied": true,
+    "alt_mappings": [
+      {
+        "2": 3,
+        "13": 1,
+        "22": 2
+      }
+    ],
+    "span_dev": 0.333,
+    "n_molecules": 1,
+    "path_flex_diff": -10.0,
+    "path_arom_diff": -0.8256666666666667
+  },
+  "*[C@@H]1CC[C@]2(C)[C@H]3CC[C@H]4[C@@](C)(CC[C@H]5[C@](*)(C)[C@@H](*)CC[C@]45C)C[C@@]3(O)[C@H](O)C[C@H]2C1(C)C": {
+    "rank": 95,
+    "mapping": {
+      "2": 2,
+      "13": 1,
+      "22": 3
+    },
+    "final_score": 0.1704,
+    "score": 0.3867,
+    "ecfp4_sim": null,
+    "usrcat_sim": 0.1107,
+    "mapping_sim": 0.0,
+    "mapping_tied": true,
+    "alt_mappings": [
+      {
+        "2": 3,
+        "13": 1,
+        "22": 2
+      }
+    ],
+    "span_dev": 0.333,
+    "n_molecules": 1,
+    "path_flex_diff": -10.0,
+    "path_arom_diff": -0.8256666666666667
+  },
+  "*[C@@H]1C[C@@H](*)[C@@H](C)C2(O1)O[C@](C)([C@H]1CC[C@@](C)([C@@H]3O[C@@H](*)C[C@@H]3C)O1)C[C@H]2C": {
+    "rank": 96,
+    "mapping": {
+      "2": 1,
+      "13": 3,
+      "22": 2
+    },
+    "final_score": 0.1659,
+    "score": 0.4,
+    "ecfp4_sim": null,
+    "usrcat_sim": 0.1025,
+    "mapping_sim": 0.0,
+    "mapping_tied": true,
+    "alt_mappings": [
+      {
+        "2": 2,
+        "13": 3,
+        "22": 1
+      }
+    ],
+    "span_dev": 0.333,
+    "n_molecules": 1,
+    "path_flex_diff": -6.0,
+    "path_arom_diff": -0.8256666666666667
+  },
+  "*[C@@H]1CC[C@]2(*)CC[C@]3(C)[C@H](CC[C@@H]4[C@@]5(C)Cc6cnn(*)c6C(C)(C)[C@@H]5CC[C@]43C)[C@@H]12": {
+    "rank": 97,
+    "mapping": {
+      "2": 1,
+      "13": 3,
+      "22": 2
+    },
+    "final_score": 0.1571,
+    "score": 0.3,
+    "ecfp4_sim": null,
+    "usrcat_sim": 0.1166,
+    "mapping_sim": 0.0,
+    "mapping_tied": true,
+    "alt_mappings": [
+      {
+        "2": 2,
+        "13": 3,
+        "22": 1
+      }
+    ],
+    "span_dev": 0.333,
+    "n_molecules": 1,
+    "path_flex_diff": -10.0,
+    "path_arom_diff": -0.7043333333333334
+  },
+  "*c1cc2c(c(C)c1*)C(=O)C=C1[C@@]2(C)CC[C@@]2(C)[C@@H]3C[C@@](*)(C)CC[C@]3(C)CC[C@]12C": {
+    "rank": 98,
+    "mapping": {
+      "2": 1,
+      "13": 3,
+      "22": 2
+    },
+    "final_score": 0.1504,
+    "score": 0.2533,
+    "ecfp4_sim": null,
+    "usrcat_sim": 0.1171,
+    "mapping_sim": 0.0667,
+    "mapping_tied": false,
+    "alt_mappings": [],
+    "span_dev": 1.0,
+    "n_molecules": 6,
+    "path_flex_diff": -10.0,
+    "path_arom_diff": -0.27099999999999996
+  },
+  "*c1nc2c(s1)C[C@]1(C)[C@H]3CC[C@@H]4[C@H]5[C@H](*)CC[C@]5(*)CC[C@@]4(C)[C@]3(C)CC[C@H]1C2(C)C": {
+    "rank": 99,
+    "mapping": {
+      "2": 2,
+      "13": 1,
+      "22": 3
+    },
+    "final_score": 0.1416,
+    "score": 0.3,
+    "ecfp4_sim": null,
+    "usrcat_sim": 0.1112,
+    "mapping_sim": 0.0667,
+    "mapping_tied": true,
+    "alt_mappings": [
+      {
+        "2": 3,
+        "13": 1,
+        "22": 2
+      }
+    ],
+    "span_dev": 0.333,
+    "n_molecules": 1,
+    "path_flex_diff": -10.0,
+    "path_arom_diff": -0.6436666666666667
+  },
+  "*[C@@H]1C/C=C/C=C(C)/C=C/C=C\\[C@@H](*)[C@@H](*)/C=C(C)/C=C/C=C/C(=O)N1": {
+    "rank": 100,
+    "mapping": {
+      "2": 3,
+      "13": 1,
+      "22": 2
+    },
+    "final_score": 0.1305,
+    "score": 0.2,
+    "ecfp4_sim": null,
+    "usrcat_sim": 0.1166,
+    "mapping_sim": 0.0,
+    "mapping_tied": false,
+    "alt_mappings": [],
+    "span_dev": 1.0,
+    "n_molecules": 1,
+    "path_flex_diff": -10.0,
+    "path_arom_diff": -0.8256666666666667
+  },
+  "*[C@H]1CC[C@]2(C)[C@H]3CC[C@@]45OC[C@@]6([C@H](O)C[C@@]4(C)[C@]3(C)CC[C@H]2[C@@]1(*)C)[C@H]5CC(C)(C)C[C@@H]6*": {
+    "rank": 101,
+    "mapping": {
+      "2": 2,
+      "13": 3,
+      "22": 1
+    },
+    "final_score": 0.1283,
+    "score": 0.3,
+    "ecfp4_sim": null,
+    "usrcat_sim": 0.1099,
+    "mapping_sim": 0.0,
+    "mapping_tied": false,
+    "alt_mappings": [],
+    "span_dev": 1.0,
+    "n_molecules": 1,
+    "path_flex_diff": -10.0,
+    "path_arom_diff": -0.8256666666666667
+  },
+  "*[C@H]1[C@H](*)[C@]23CO[C@@]4(CC[C@@H]5[C@@]6(C)CC[C@H](*)C(C)(C)[C@@H]6CC[C@@]5(C)[C@]4(C)C[C@H]2O)[C@@H]3CC1(C)C": {
+    "rank": 102,
+    "mapping": {
+      "2": 1,
+      "13": 3,
+      "22": 2
+    },
+    "final_score": 0.1195,
+    "score": 0.3,
+    "ecfp4_sim": null,
+    "usrcat_sim": 0.1086,
+    "mapping_sim": 0.0,
+    "mapping_tied": true,
+    "alt_mappings": [
+      {
+        "2": 2,
+        "13": 3,
+        "22": 1
+      }
+    ],
+    "span_dev": 0.333,
+    "n_molecules": 1,
+    "path_flex_diff": -10.0,
+    "path_arom_diff": -0.8256666666666667
+  },
+  "*[C@@H]1CC[C@@]2(C)[C@@H](CC[C@]3(O)C[C@]4(C)CC[C@H]5[C@](*)(C)[C@@H](*)CC[C@]5(C)[C@H]4CC[C@@H]32)C1(C)C": {
+    "rank": 103,
+    "mapping": {
+      "2": 2,
+      "13": 1,
+      "22": 3
+    },
+    "final_score": 0.115,
+    "score": 0.2533,
+    "ecfp4_sim": null,
+    "usrcat_sim": 0.11,
+    "mapping_sim": 0.0,
+    "mapping_tied": true,
+    "alt_mappings": [
+      {
+        "2": 3,
+        "13": 1,
+        "22": 2
+      }
+    ],
+    "span_dev": 0.333,
+    "n_molecules": 1,
+    "path_flex_diff": -10.0,
+    "path_arom_diff": -0.8256666666666667
+  },
+  "*[C@@H]1CN[C@@]2(O[C@H]3C[C@H]4[C@@H]5CC[C@H]6C[C@@H](*)CC[C@]6(C)[C@H]5CC[C@]4(C)[C@H]3[C@H]2C)[C@@H](*)C1": {
+    "rank": 104,
+    "mapping": {
+      "2": 1,
+      "13": 2,
+      "22": 3
+    },
+    "final_score": 0.1106,
+    "score": 0.3,
+    "ecfp4_sim": null,
+    "usrcat_sim": 0.1063,
+    "mapping_sim": 0.0,
+    "mapping_tied": true,
+    "alt_mappings": [
+      {
+        "2": 3,
+        "13": 2,
+        "22": 1
+      }
+    ],
+    "span_dev": 1.0,
+    "n_molecules": 1,
+    "path_flex_diff": -10.0,
+    "path_arom_diff": -0.8256666666666667
+  },
+  "*c1cc(C)c2c(c1*)CC1(O2)[C@@H](C)CCC2[C@@]3(C)CC[C@H](*)C(C)(C)C3CC[C@]21C": {
+    "rank": 105,
+    "mapping": {
+      "2": 2,
+      "13": 3,
+      "22": 1
+    },
+    "final_score": 0.1062,
+    "score": 0.2533,
+    "ecfp4_sim": null,
+    "usrcat_sim": 0.1098,
+    "mapping_sim": 0.0667,
+    "mapping_tied": false,
+    "alt_mappings": [],
+    "span_dev": 1.0,
+    "n_molecules": 1,
+    "path_flex_diff": -10.0,
+    "path_arom_diff": -0.33466666666666667
+  },
+  "*[C@@H]1C[C@@](*)(C)C[C@@H]2C3=CC(=O)[C@@H]4[C@@]5(C)CC[C@H](*)C(C)(C)[C@@H]5CC[C@@]4(C)[C@]3(C)CC[C@@]12C": {
+    "rank": 106,
+    "mapping": {
+      "2": 1,
+      "13": 3,
+      "22": 2
+    },
+    "final_score": 0.0597,
+    "score": 0.1867,
+    "ecfp4_sim": null,
+    "usrcat_sim": 0.1025,
+    "mapping_sim": 0.0,
+    "mapping_tied": true,
+    "alt_mappings": [
+      {
+        "2": 2,
+        "13": 3,
+        "22": 1
+      }
+    ],
+    "span_dev": 0.333,
+    "n_molecules": 2,
+    "path_flex_diff": -10.0,
+    "path_arom_diff": -0.8256666666666667
+  },
+  "*[C@H]1CC[C@]2(C)[C@H]3C(=O)C=C4[C@H]5C[C@](*)(C)CC[C@]5(C)CC[C@@]4(C)[C@]3(C)CC[C@H]2[C@]1(*)C": {
+    "rank": 107,
+    "mapping": {
+      "2": 3,
+      "13": 2,
+      "22": 1
+    },
+    "final_score": 0.0531,
+    "score": 0.1867,
+    "ecfp4_sim": null,
+    "usrcat_sim": 0.1023,
+    "mapping_sim": 0.0,
+    "mapping_tied": false,
+    "alt_mappings": [],
+    "span_dev": 1.0,
+    "n_molecules": 1,
+    "path_flex_diff": -10.0,
+    "path_arom_diff": -0.8256666666666667
+  },
+  "*[C@@H]1CC[C@]2(C)[C@H](CC[C@@]3(C)[C@H]2C(=O)C=C2[C@@H]4C[C@](*)(C)CC[C@@]4(C)CC[C@@]23C)[C@@]1(*)C": {
+    "rank": 108,
+    "mapping": {
+      "2": 3,
+      "13": 2,
+      "22": 1
+    },
+    "final_score": 0.0487,
+    "score": 0.1867,
+    "ecfp4_sim": null,
+    "usrcat_sim": 0.102,
+    "mapping_sim": 0.0,
+    "mapping_tied": false,
+    "alt_mappings": [],
+    "span_dev": 1.0,
+    "n_molecules": 1,
+    "path_flex_diff": -10.0,
+    "path_arom_diff": -0.8256666666666667
+  },
+  "*[C@@H]1CC[C@]2(C)[C@H](CC[C@@]3(C)[C@H]2C(=O)C=C2[C@@H]4C[C@@](*)(C)CC[C@@]4(C)CC[C@@]23C)[C@@]1(*)C": {
+    "rank": 109,
+    "mapping": {
+      "2": 3,
+      "13": 2,
+      "22": 1
+    },
+    "final_score": 0.0442,
+    "score": 0.1867,
+    "ecfp4_sim": null,
+    "usrcat_sim": 0.1011,
+    "mapping_sim": 0.0,
+    "mapping_tied": false,
+    "alt_mappings": [],
+    "span_dev": 1.0,
+    "n_molecules": 1,
+    "path_flex_diff": -10.0,
+    "path_arom_diff": -0.8256666666666667
+  },
+  "*[C@@H]1C[C@@](*)(C)C[C@H]2C3=CC(=O)[C@@H]4[C@@]5(C)CC[C@H](*)C(C)(C)[C@@H]5CC[C@@]4(C)[C@]3(C)CC[C@@]12C": {
+    "rank": 110,
+    "mapping": {
+      "2": 1,
+      "13": 3,
+      "22": 2
+    },
+    "final_score": 0.0376,
+    "score": 0.1867,
+    "ecfp4_sim": null,
+    "usrcat_sim": 0.101,
+    "mapping_sim": 0.0,
+    "mapping_tied": true,
+    "alt_mappings": [
+      {
+        "2": 2,
+        "13": 3,
+        "22": 1
+      }
+    ],
+    "span_dev": 0.333,
+    "n_molecules": 1,
+    "path_flex_diff": -10.0,
+    "path_arom_diff": -0.8256666666666667
+  },
+  "*[C@@H]1[C@@H](*)C[C@]2(C)[C@H]3C(=O)C=C4[C@@H]5C[C@](*)(C)CC[C@]5(C)CC[C@@]4(C)[C@]3(C)CC[C@H]2C1(C)C": {
+    "rank": 111,
+    "mapping": {
+      "2": 2,
+      "13": 3,
+      "22": 1
+    },
+    "final_score": 0.0376,
+    "score": 0.1867,
+    "ecfp4_sim": null,
+    "usrcat_sim": 0.101,
+    "mapping_sim": 0.0,
+    "mapping_tied": false,
+    "alt_mappings": [],
+    "span_dev": 1.0,
+    "n_molecules": 2,
+    "path_flex_diff": -10.0,
+    "path_arom_diff": -0.8256666666666667
+  },
+  "*[C@@H]1CC[C@]2(C)[C@H](CC[C@@]3(C)[C@H]2C(=O)C=C2[C@@H]4C[C@@](*)(C)C[C@H](*)[C@@]4(C)CC[C@@]23C)C1(C)C": {
+    "rank": 112,
+    "mapping": {
+      "2": 2,
+      "13": 1,
+      "22": 3
+    },
+    "final_score": 0.031,
+    "score": 0.1867,
+    "ecfp4_sim": null,
+    "usrcat_sim": 0.1009,
+    "mapping_sim": 0.0,
+    "mapping_tied": true,
+    "alt_mappings": [
+      {
+        "2": 3,
+        "13": 1,
+        "22": 2
+      }
+    ],
+    "span_dev": 0.333,
+    "n_molecules": 5,
+    "path_flex_diff": -10.0,
+    "path_arom_diff": -0.8256666666666667
+  },
+  "*C1C[C@H](C)[C@H]2[C@H]3CC[C@@H]4[C@@]5(C)CC[C@H](*)C(C)(C)[C@@H]5CC[C@@]4(C)[C@]3(C)CC[C@@]2(*)C1": {
+    "rank": 113,
+    "mapping": {
+      "2": 3,
+      "13": 2,
+      "22": 1
+    },
+    "final_score": 0.0088,
+    "score": 0.12,
+    "ecfp4_sim": null,
+    "usrcat_sim": 0.0874,
+    "mapping_sim": 0.0,
+    "mapping_tied": false,
+    "alt_mappings": [],
+    "span_dev": 0.333,
+    "n_molecules": 1,
+    "path_flex_diff": -10.0,
+    "path_arom_diff": -0.8256666666666667
+  }
+}

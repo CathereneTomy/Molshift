@@ -1,0 +1,13 @@
+{
+  "timestamp": "2026-11-15T17:48:05",
+  "python": "3.14.2",
+  "platform": "Windows-11-10.0.26200-SP0",
+  "params": {
+    "Whole smiles": "[2H]C([2H])([2H])NC(=O)C1=NN=C(C=C1NC2=CC=CC(=C2OC)C3=NN(C=N3)C)NC(=O)C4CC4",
+    "Scaffold smiles": "COc1ccccc1Nc1cc(NC(=O)C2CC2)nnc1C=O",
+    "Similarity screening mode": "ecfp4",
+    "Number of rgrp replaced": 2,
+    "Rgrp enumeration mols requested": 10000,
+    "Number of rgrp_enum": 10000
+  }
+}

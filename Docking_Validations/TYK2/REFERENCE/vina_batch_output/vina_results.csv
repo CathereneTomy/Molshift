@@ -1,0 +1,11 @@
+ligand_index,smiles,mode,affinity_kcal_mol,rmsd_lb,rmsd_ub,pose_file,log_file
+0,CNC(=O)c1c(cc(nn1)NC(=O)C2CC2)Nc3cccc(c3OC)c4ncn(n4)C,1,-9.4,0.0,0.0,Docking_Validations/TYK2/REFERENCE/vina_batch_output\poses\0_out.pdbqt,Docking_Validations/TYK2/REFERENCE/vina_batch_output\logs\0.txt
+0,CNC(=O)c1c(cc(nn1)NC(=O)C2CC2)Nc3cccc(c3OC)c4ncn(n4)C,2,-9.3,1.595,2.031,Docking_Validations/TYK2/REFERENCE/vina_batch_output\poses\0_out.pdbqt,Docking_Validations/TYK2/REFERENCE/vina_batch_output\logs\0.txt
+0,CNC(=O)c1c(cc(nn1)NC(=O)C2CC2)Nc3cccc(c3OC)c4ncn(n4)C,3,-8.7,2.011,5.215,Docking_Validations/TYK2/REFERENCE/vina_batch_output\poses\0_out.pdbqt,Docking_Validations/TYK2/REFERENCE/vina_batch_output\logs\0.txt
+0,CNC(=O)c1c(cc(nn1)NC(=O)C2CC2)Nc3cccc(c3OC)c4ncn(n4)C,4,-8.5,2.922,3.766,Docking_Validations/TYK2/REFERENCE/vina_batch_output\poses\0_out.pdbqt,Docking_Validations/TYK2/REFERENCE/vina_batch_output\logs\0.txt
+0,CNC(=O)c1c(cc(nn1)NC(=O)C2CC2)Nc3cccc(c3OC)c4ncn(n4)C,5,-8.3,3.259,9.123,Docking_Validations/TYK2/REFERENCE/vina_batch_output\poses\0_out.pdbqt,Docking_Validations/TYK2/REFERENCE/vina_batch_output\logs\0.txt
+0,CNC(=O)c1c(cc(nn1)NC(=O)C2CC2)Nc3cccc(c3OC)c4ncn(n4)C,6,-8.3,3.728,9.012,Docking_Validations/TYK2/REFERENCE/vina_batch_output\poses\0_out.pdbqt,Docking_Validations/TYK2/REFERENCE/vina_batch_output\logs\0.txt
+0,CNC(=O)c1c(cc(nn1)NC(=O)C2CC2)Nc3cccc(c3OC)c4ncn(n4)C,7,-8.3,2.953,6.949,Docking_Validations/TYK2/REFERENCE/vina_batch_output\poses\0_out.pdbqt,Docking_Validations/TYK2/REFERENCE/vina_batch_output\logs\0.txt
+0,CNC(=O)c1c(cc(nn1)NC(=O)C2CC2)Nc3cccc(c3OC)c4ncn(n4)C,8,-8.1,2.932,5.074,Docking_Validations/TYK2/REFERENCE/vina_batch_output\poses\0_out.pdbqt,Docking_Validations/TYK2/REFERENCE/vina_batch_output\logs\0.txt
+0,CNC(=O)c1c(cc(nn1)NC(=O)C2CC2)Nc3cccc(c3OC)c4ncn(n4)C,9,-8.0,3.511,9.487,Docking_Validations/TYK2/REFERENCE/vina_batch_output\poses\0_out.pdbqt,Docking_Validations/TYK2/REFERENCE/vina_batch_output\logs\0.txt
+0,CNC(=O)c1c(cc(nn1)NC(=O)C2CC2)Nc3cccc(c3OC)c4ncn(n4)C,10,-8.0,4.475,7.721,Docking_Validations/TYK2/REFERENCE/vina_batch_output\poses\0_out.pdbqt,Docking_Validations/TYK2/REFERENCE/vina_batch_output\logs\0.txt

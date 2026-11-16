@@ -1,0 +1,71 @@
+REMARK SMILES: C[NH2+]Cc1cc2c(cc1CC(C)C)CCN=C2C1CCc2nc(CC(C)N(C)C)[nH]c(=O)c2C1
+REMARK Ligand: 
+REMARK Index: 24
+REMARK  8 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: N1_2  and  C2_3 
+REMARK    2  A    between atoms: C2_3  and  C3_4 
+REMARK    3  A    between atoms: C8_9  and  C9_10 
+REMARK    4  A    between atoms: C9_10  and  C10_11 
+REMARK    5  A    between atoms: C15_18  and  C16_19 
+REMARK    6  A    between atoms: C20_25  and  C21_26 
+REMARK    7  A    between atoms: C21_26  and  C22_27 
+REMARK    8  A    between atoms: C22_27  and  N4_29 
+ROOT
+HETATM    1  C3  UNL     1      -4.309  -0.988  -0.788  1.00  0.00    -0.026 A 
+HETATM    2  C4  UNL     1      -2.906  -1.018  -0.609  1.00  0.00     0.023 A 
+HETATM    3  C5  UNL     1      -2.159   0.161  -0.532  1.00  0.00    -0.007 A 
+HETATM    4  C6  UNL     1      -2.805   1.392  -0.657  1.00  0.00    -0.044 A 
+HETATM    5  C7  UNL     1      -4.191   1.435  -0.835  1.00  0.00     0.015 A 
+HETATM    6  C8  UNL     1      -4.967   0.261  -0.893  1.00  0.00    -0.049 A 
+HETATM    7  C13 UNL     1      -1.990   2.653  -0.571  1.00  0.00     0.059 C 
+HETATM    8  C14 UNL     1      -0.621   2.407  -1.188  1.00  0.00     0.124 C 
+HETATM    9  N2  UNL     1       0.038   1.237  -0.597  1.00  0.00    -0.392 N 
+ATOM     10  H2  UNL     1       1.040   1.244  -0.409  1.00  0.00     0.159 HD
+HETATM   11  C15 UNL     1      -0.677   0.197  -0.320  1.00  0.00     0.020 C 
+ENDROOT
+BRANCH  11  12
+HETATM   12  C16 UNL     1       0.039  -1.029   0.269  1.00  0.00     0.041 C 
+HETATM   13  C17 UNL     1       0.738  -1.841  -0.826  1.00  0.00     0.017 C 
+HETATM   14  C18 UNL     1       1.992  -1.160  -1.380  1.00  0.00     0.058 C 
+HETATM   15  C19 UNL     1       2.866  -0.527  -0.325  1.00  0.00     0.022 A 
+HETATM   16  N3  UNL     1       4.127  -0.184  -0.750  1.00  0.00    -0.349 N 
+HETATM   17  C27 UNL     1       2.404  -0.308   0.916  1.00  0.00     0.033 A 
+HETATM   18  C20 UNL     1       4.898   0.430   0.090  1.00  0.00     0.086 A 
+ATOM     19  H3  UNL     1       4.445  -0.405  -1.694  1.00  0.00     0.167 HD
+HETATM   20  N5  UNL     1       4.533   0.703   1.376  1.00  0.00    -0.312 N 
+HETATM   21  C26 UNL     1       3.315   0.352   1.875  1.00  0.00     0.255 A 
+HETATM   22  H40 UNL     1       5.150   1.197   2.005  1.00  0.00     0.170 HD
+HETATM   23  O1  UNL     1       2.997   0.565   3.039  1.00  0.00    -0.268 OA
+HETATM   24  C28 UNL     1       1.019  -0.629   1.387  1.00  0.00     0.057 C 
+BRANCH  18  25
+HETATM   25  C21 UNL     1       6.279   0.885  -0.329  1.00  0.00     0.112 C 
+BRANCH  25  26
+HETATM   26  C22 UNL     1       7.410   0.081   0.361  1.00  0.00     0.225 C 
+HETATM   27  C23 UNL     1       7.356  -1.372  -0.157  1.00  0.00     0.043 C 
+BRANCH  26  28
+HETATM   28  N4  UNL     1       8.731   0.727   0.121  1.00  0.00     0.084 N 
+HETATM   29  C24 UNL     1       8.877   1.988   0.860  1.00  0.00     0.309 C 
+HETATM   30  C25 UNL     1       9.874  -0.135   0.451  1.00  0.00     0.309 C 
+ENDBRANCH  26  28
+ENDBRANCH  25  26
+ENDBRANCH  18  25
+ENDBRANCH  11  12
+BRANCH   1  31
+HETATM   31  C2  UNL     1      -5.040  -2.308  -0.842  1.00  0.00     0.270 C 
+BRANCH  31  32
+HETATM   32  N1  UNL     1      -5.786  -2.625   0.416  1.00  0.00    -0.075 N 
+HETATM   33  C1  UNL     1      -4.948  -2.908   1.610  1.00  0.00     0.267 C 
+HETATM   34  H4  UNL     1      -6.412  -1.842   0.635  1.00  0.00     0.277 HD
+HETATM   35  H5  UNL     1      -6.399  -3.431   0.234  1.00  0.00     0.277 HD
+ENDBRANCH  31  32
+ENDBRANCH   1  31
+BRANCH   6  36
+HETATM   36  C9  UNL     1      -6.457   0.403  -1.168  1.00  0.00     0.043 C 
+BRANCH  36  37
+HETATM   37  C10 UNL     1      -7.220   1.401  -0.269  1.00  0.00    -0.019 C 
+HETATM   38  C11 UNL     1      -8.674   1.504  -0.738  1.00  0.00     0.010 C 
+HETATM   39  C12 UNL     1      -7.184   1.004   1.209  1.00  0.00     0.010 C 
+ENDBRANCH  36  37
+ENDBRANCH   6  36
+TORSDOF 8

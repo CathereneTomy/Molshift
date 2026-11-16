@@ -1,0 +1,8 @@
+{
+"vina_exe_path":"C:/Program Files (x86)/The Scripps Research Institute/Vina/vina.exe",
+"mgl_python" : "C:/Program Files (x86)/MGLTools-1.5.7/python.exe",
+"vina_prepare_receptor" : "C:/Program Files (x86)/MGLTools-1.5.7/Lib/site-packages/AutoDockTools/Utilities24/prepare_receptor4.py",
+"vina_prepare_lig" : "C:/Program Files (x86)/MGLTools-1.5.7/Lib/site-packages/AutoDockTools/Utilities24/prepare_ligand4.py",
+"obabel_exe" : "C:/Users/<USER_HOME>/openbabel-3.1.1-py310he48ad53_9/Library/bin/obabel.exe",
+"cpu_cores" : 12
+}

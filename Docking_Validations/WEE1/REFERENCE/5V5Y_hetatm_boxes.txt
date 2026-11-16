@@ -1,0 +1,30 @@
+# HETATM Ligand Binding Boxes for Vina
+# Source: WEE1/5V5Y.pdb
+
+[A_8X7_601]
+center_x = 21.048
+center_y = 3.078
+center_z = -7.031
+size_x   = 14.765
+size_y   = 12.883
+size_z   = 19.806
+smiles = CC(C)(c1cccc(n1)N2c3c(cnc(n3)Nc4ccc(cc4)N5CCN(CC5)C)C(=O)N2CC=C)O
+
+[A_DMS_602]
+center_x = 11.281
+center_y = 6.630
+center_z = -10.742
+size_x   = 8.330
+size_y   = 6.930
+size_z   = 6.301
+smiles = CS(=O)C
+
+[A_DMS_603]
+center_x = 23.084
+center_y = -13.356
+center_z = -1.153
+size_x   = 6.756
+size_y   = 7.608
+size_z   = 7.127
+smiles = CS(=O)C
+

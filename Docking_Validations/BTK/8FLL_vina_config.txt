@@ -1,0 +1,14 @@
+# Vina config � site: A_Y7W_701
+receptor = BTK/8FLL_receptor.pdbqt
+
+center_x = -23.930
+center_y = 1.475
+center_z = -3.088
+size_x   = 10.860
+size_y   = 15.698
+size_z   = 15.723
+
+exhaustiveness = 16
+num_modes      = 10
+energy_range   = 4
+

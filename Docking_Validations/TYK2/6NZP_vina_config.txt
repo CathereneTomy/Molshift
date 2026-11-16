@@ -1,0 +1,14 @@
+# Vina config � site: A_LB7_901
+receptor = Docking_Validations/TYK2/6NZP_receptor.pdbqt
+
+center_x = 12.789
+center_y = -3.084
+center_z = 27.123
+size_x   = 16.548
+size_y   = 14.084
+size_z   = 15.188
+
+exhaustiveness = 16
+num_modes      = 10
+energy_range   = 4
+

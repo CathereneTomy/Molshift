@@ -1,0 +1,12 @@
+REMARK SMILES: CS(=O)C
+REMARK Ligand: 
+REMARK Index: 1
+REMARK  0 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+ROOT
+HETATM    1  C1  UNL     1      -1.322  -0.179  -0.261  1.00  0.00     0.126 C 
+HETATM    2  S1  UNL     1      -0.131   0.615   0.846  1.00  0.00     0.006 S 
+HETATM    3  O1  UNL     1      -0.024   2.054   0.437  1.00  0.00    -0.259 OA
+HETATM    4  C2  UNL     1       1.322  -0.245   0.196  1.00  0.00     0.126 C 
+ENDROOT
+TORSDOF 0
